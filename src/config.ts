@@ -1,6 +1,6 @@
 export const SITE_CONFIG = {
-  title: 'Ghost',
-  description: 'The professional publishing platform',
+  title: 'The Sport Traveler',
+  description: 'dedicado a compartir ideas de viajes deportes y mas',
   cover: 'assets/images/blog-cover.jpg',
   logo: 'assets/images/blog-icon.png',
   logoDark: 'assets/images/favicon.png',
