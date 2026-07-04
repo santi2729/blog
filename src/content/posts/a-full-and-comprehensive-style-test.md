@@ -1,13 +1,13 @@
 ---
 current: post
-cover: assets/images/bear.jpg
-navigation: True
+class: post-template
+subclass: draft
+navigation: true
 title: A Full and Comprehensive Style Test
 date: 2012-09-01 10:00:00
-tags:
-class: post-template
-subclass: 'post'
 author: john
+tags: null
+cover: assets/images/bear.jpg
 ---
 
 <p>Below is just about everything you’ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.</p>
